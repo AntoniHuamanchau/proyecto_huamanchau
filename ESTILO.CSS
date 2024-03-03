@@ -1,0 +1,26 @@
+/*header {text-align:center;color:#663300;
+font-size:30pt;font-family:Times New Roman}
+nav{font-size:30pt;text-align:center;font-family:Times New Roman;
+    width:90%; margin:auto}
+nav li{display:inline}
+nav li a {text-decoration:none;color:#0c7f00;}
+aside{width:15%;float:right;text-align:center;font-size:16pt;
+    background: #3f798b;font-family:Times New Roman}
+article{width:15%;float:left;text-align:center;font-size:16pt;
+    background: #3f798b;font-family:Times New Roman}
+img{display:block;margin:auto; margin-bottom;0.5cm}
+footer{width:100%;background:black;color:white;font-size:30pt;
+ text-align:center;font-family:Times New Roman}
+section{text-align:justify; font-size:16;
+font-family:Times New Roman;width:69%;background:#002f58;color:white;margin:auto}*/
+.bar{background-image:url(Fondos de paginas/fondo2.jpg)}
+.bar1{background-image:url(../fondos de paginas/fondo1.jpg)}
+.bar2{background-image:url(../FONDOS/FONDO3.jpg)}
+.bar3{background-image:url(../FONDOS/FONDO4.jpg)}
+.bar4{background-image:url(../FONDOS/FONDO5.jpg)}
+.bar5{background-image:url(../FONDOS/FONDO6.jpg)}
+.bar6{font-family:Comic Sans MS;font-size: 20px;
+font-weight: 500;color:#ffffff;background:#002d55;
+margin: 0 0 30px;overflow: hidden;padding: 15px;}
+.bar7{text-align:justify; font-size:10;
+font-family:Times New Roman;width:25%;color:white;margin:auto}
